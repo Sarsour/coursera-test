@@ -102,14 +102,16 @@ p {
   margin-bottom: 0px;
   line-height: .75;
   text-decoration: none;
+  background-color: #A52A2A;
 }
 
 #nav-list {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: black;
   text-align: center;
+  background-color: #b3d4fc;
 }
 #nav-list a:hover {
   background: #E7E7E7;

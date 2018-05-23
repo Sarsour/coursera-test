@@ -138,8 +138,14 @@ p {
 }
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
+  margin-top: 10px;
 }
+
+.navbar-nav {
+  background-color: #9fcdff;
+  text-align: center;
+}
+
 /* END HEADER */
 
 /* Desktop */

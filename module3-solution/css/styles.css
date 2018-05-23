@@ -138,6 +138,7 @@ p {
 }
 .navbar-header button.navbar-toggle {
   clear: both;
+  margin-top: 20px;
   margin-top: 10px;
 }
 
